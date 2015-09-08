@@ -1,4 +1,4 @@
-/** An interface for the ADT list.
+/** An interface for the ADT list. Based around Java API Interface List.
  *  Entries in the list have positions that begin with 1.
  */
 public interface ListInterface<T>
